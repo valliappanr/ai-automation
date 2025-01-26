@@ -37,4 +37,6 @@ Similar to browser agent automation, medical insurance claims could be automated
 ![alt text](insurance-ai-agent.png)
 
 
+### Summary
 
+* Automation agent is an evolution of GenAI and still solving the business problems and exciting years ahead 
